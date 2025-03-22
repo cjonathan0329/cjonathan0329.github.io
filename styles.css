@@ -1,0 +1,14 @@
+* {
+    font-family: sans-serif;
+}
+html {
+    scroll-behavior: smooth;
+}
+body {
+    background: #0c916f;
+}
+.descripton {
+    font-size: 18px;
+    background: white;
+    padding: 6%;
+}
